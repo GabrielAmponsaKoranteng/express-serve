@@ -24,7 +24,6 @@ app.get('/stars', (req, res) => {
     res.json('stars')
 })
 app.get('/review', (req, res) => {
-
     res.send('review')
 })
 
